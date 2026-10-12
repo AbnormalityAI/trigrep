@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="trigrep: A small trigram-indexed code search CLI with a published benchmark method.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <g transform="translate(150 150) scale(1.5)"><circle cx="-6" cy="-6" r="30" fill="none" stroke="#fff" stroke-width="7"/><path d="M16 16 L44 44" stroke="#fff" stroke-width="9" stroke-linecap="round"/><path d="M-20 -6 H8 M-6 -20 V8" stroke="#fff" stroke-width="5" stroke-linecap="round"/></g>
+  <text x="270" y="150" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="72" font-weight="700" fill="#fff">trigrep</text>
+  <text x="272" y="205" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#fff" fill-opacity=".88">A small trigram-indexed code search CLI with a published benchmark method.</text>
+</svg>
